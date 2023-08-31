@@ -15,6 +15,7 @@
     --bs-gradient: none;
 
 }
+/* font awesome icon custom color */
 .bg-icon{
     color: #B68C5A;
     font-size: 18px;
@@ -29,15 +30,16 @@
 .font-poppins{
     font-family: 'Poppins', sans-serif;
 }
+
 .banner{
     background-image: url("../images/banner.png");
     height: 100vh;
     background-repeat: no-repeat;
 }
+/* custom image size */
 .img-width{
     height: 100px;
-    width: 100px;
-    
+    width: 100px;  
 }
 
 .services-items:hover{
