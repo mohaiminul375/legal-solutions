@@ -25,3 +25,8 @@
 .font-poppins{
     font-family: 'Poppins', sans-serif;
 }
+.banner{
+    background-image: url('../images/banner.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+}
